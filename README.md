@@ -7,8 +7,8 @@ VL-Challenge is a real-time dashboard which was developed by React.js, React-Boo
 VL-Challenge and VL-Challenge-Server
 
 ```
-https://github.com/berksafran/vl-challenge.git
-https://github.com/berksafran/vl-challenge-server.git
+git clone https://github.com/berksafran/vl-challenge.git
+git clone https://github.com/berksafran/vl-challenge-server.git
 ```
 
 ## Install
@@ -16,15 +16,11 @@ https://github.com/berksafran/vl-challenge-server.git
 ```
 cd vl-challenge-server
 yarn install
-or
-npm install
 ```
 
 ```
 cd vl-challenge
 yarn install
-or
-npm install
 ```
 
 ## Usage
